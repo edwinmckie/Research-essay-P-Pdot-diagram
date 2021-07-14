@@ -1,0 +1,7 @@
+This jupiter notebook makes use of the ATNF pulsat catalouge for its data points and this notebook is a work in progress
+
+the catalouge is availble at "https://www.atnf.csiro.au/research/pulsar/psrcat/"
+
+Refernce:
+ R. N. Manchester, G. B. Hobbs, A. Teoh, and M. Hobbs, “The AustraliaTelescope National Facility Pulsar Catalogue”, vol. 129, no. 4, pp. 1993–2006,
+ Apr. 2005, Available athttp://www.atnf.csiro.au/research/pulsar / psrcat.doi:10 . 1086 / 428488.  arXiv:astro - ph / 0412641[astro-ph]
